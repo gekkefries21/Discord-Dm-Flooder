@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/sweuW3N8f5">Join our Discord server For The Tool</a>
+  <a href="https://discord.gg/gRFqZFmtAy">Join our Discord server For The Tool</a>
 </p>
 
 # Please Star This Repo! >>⭐<<
